@@ -1,5 +1,4 @@
 import unittest
-from deep_translator import MyMemoryTranslator
 from translator import english_to_french, french_to_english
 
 
